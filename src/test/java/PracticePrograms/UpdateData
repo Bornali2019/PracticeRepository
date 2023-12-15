@@ -1,0 +1,7 @@
+Public class update{
+@Test{
+public void updateMethod{){
+system.out.println("updated succesfully");
+}
+}
+}
