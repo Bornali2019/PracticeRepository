@@ -7,5 +7,7 @@ public class Create {
 public void createMethod() {
 	System.out.println("method created");
 	System.out.println("method again created");
+	
+	System.out.println("method updated succesfully");
 }
 }
